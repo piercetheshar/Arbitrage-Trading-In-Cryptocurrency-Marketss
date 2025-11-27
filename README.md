@@ -86,7 +86,7 @@ $$
 
 The Kalman Filter:
 
-- Updates the parameters \(a_t\) and \(b_t\) at each timestep  
+- Updates the parameters $\(a_t\)$ and $\(b_t\)$ at each timestep  
 - Adapts to changing market regimes  
 - Produces a smoother response compared to static OLS  
 
@@ -114,9 +114,9 @@ $$
 
 **Trading rules:**
 
-- **Long (Y), Short (X)** when \(z_t < -2\)  
-- **Short (Y), Long (X)** when \(z_t > +2\)  
-- **Exit all positions** when \(z_t\) crosses 0  
+- **Long (Y), Short (X)** when $\(z_t < -2\)$  
+- **Short (Y), Long (X)** when $\(z_t > +2\)$  
+- **Exit all positions** when $\(z_t\)$ crosses 0  
 
 This captures short-term mean reversion around the equilibrium spread.
 
