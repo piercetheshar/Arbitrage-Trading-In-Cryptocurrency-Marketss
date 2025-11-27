@@ -3,11 +3,12 @@
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?logo=numpy)
-
 ![Stat Arb](https://img.shields.io/badge/Strategy-Statistical%20Arbitrage-blueviolet)
 ![Cointegration](https://img.shields.io/badge/Method-Johansen%20Cointegration-orange)
 ![Signals](https://img.shields.io/badge/Signals-Z--Score-brightgreen)
 ![Kalman Filter](https://img.shields.io/badge/Model-Kalman%20Filter-yellow)
+![Binance US](https://img.shields.io/badge/Data-Binance%20US-f3ba2f?logo=binance)
+
 
 
 
